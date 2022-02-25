@@ -1,5 +1,9 @@
+<html>
+
+<head>kryvnus.com - Todo List</head>
+<body>
 <?php
-$user = "example_user";
+$user = "kryvnus";
 $password = "C0ngr@tul@ti0ns";
 $database = "example_database";
 $table = "todo_list";
@@ -15,3 +19,5 @@ try {
 	print "Error!: ".$e->getMessage()."<br/>";
 	die();
 }
+?>
+</body>
