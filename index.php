@@ -3,6 +3,6 @@
 		<title><?="kryvnus.com"?></title>
 	</head>
 	<body>
-		kryvnus.com development
+		kryvnus.com development <?php echo "php"; ?>
 	</body>
 </html>
