@@ -1,6 +1,6 @@
 <html>
 
-<head>kryvnus.com - Todo List</head>
+<head><title>kryvnus.com - Todo List</title></head>
 <body>
 <?php
 $user = "kryvnus";
